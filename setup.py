@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="pishockpy",
-    version="0.0.1",
+    version="0.0.2",
     author="Ralf Rademacher",
     description="Control a PiShock via the API.",
     long_description=long_description,

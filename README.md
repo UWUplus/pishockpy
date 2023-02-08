@@ -1,7 +1,7 @@
 # pishockpy
 
 Comfortably use the [PiShock](https://PiShock.com) API in Python.  
-This requires at least `Python 3.8`
+This requires at least `Python 3`
 
 ## Usage
 Import the package:

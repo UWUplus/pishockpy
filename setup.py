@@ -5,12 +5,12 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="pishockpy",
-    version="0.0.2",
+    version="0.0.3",
     author="Ralf Rademacher",
     description="Control a PiShock via the API.",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/UWUplus/pishopckpy",
+    url="https://github.com/UWUplus/pishockpy",
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: GNU General Public License v3 (GPLv3)",
